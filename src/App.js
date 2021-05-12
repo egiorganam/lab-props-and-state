@@ -14,6 +14,7 @@ function App() {
     <div className="App">
       <Counter counter={counter} onClickPlus={clickPlus} onClickMinus={clickMinus}/>
       <Form />
+      <Form />
     </div>
   );
 }
